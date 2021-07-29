@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Valentina</h1>
+<h1 align="center">¡Hola! 👋, Soy Valentina</h1>
 <h3 align="center">Apasionada por la tecnología</h3>
 
-- 🔭 I’m currently working on **Mi futuro**
+- 🔭 Actualmente estoy trabajando en **Mi futuro...proyectos académicos**
 
 - 📫 How to reach me **vgonzal81785@universidadean.edu.co**
 
